@@ -1867,6 +1867,6 @@ setTimeout(PayloadLoader("aio_patches.bin"),500);
 log("AIO Fixes Applied.!");
 //Load GoldHEN :)
 setTimeout(PayloadLoader("goldhen_2.4b18.5.bin"),500);
-msgs.innerHTML = "AR Playstation";
+msgs.innerHTML = "Ty For AR Playstation";
 
 })
